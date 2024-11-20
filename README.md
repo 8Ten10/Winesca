@@ -1,0 +1,2 @@
+# Winesca
+Privilege Escala Windows
